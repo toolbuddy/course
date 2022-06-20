@@ -47,7 +47,7 @@
   * Docker (Container)
   * Kubernates
 
-# Living class note
+# Basic class note
 
 * Computer Hardware
   * Intro of devices / Their features
@@ -62,3 +62,9 @@
   * Helping with living issues
 
 * Divide & conquer
+
+# Windows
+
+* WSL
+* MSVC
+* C#
